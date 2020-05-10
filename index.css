@@ -1,0 +1,15 @@
+@font-face {
+    font-family : "Riffic";
+    src: url('fonts/riffic-bold-webfont.woff') format('woff');
+    /* url("fonts/riffic-bold-webfont.ttf") format("truetype"),
+    url("fonts/riffic-bold-webfont.svg") format("svg"),
+    url("fonts/riffic-bold-webfont.eot") format("embedded-opentype"); */
+    font-weight: bold;
+    font-style: normal;
+}
+
+body {
+    font-family: "Riffic",Arial, sans-serif;
+}
+
+
